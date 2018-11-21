@@ -1,2 +1,2 @@
-# upload-script-for-BTN-
-upload your TV shows to Broadcasthe.net 
+# upload-script-for-TL
+upload your stuff to torrentleech.org 
